@@ -1,0 +1,165 @@
+h2{
+    font-family:cursive;
+}
+.Red{
+    color: red;
+}
+#Green{
+color:#39FF14;
+}
+
+table{
+    table-layout: fixed;
+}
+td{
+        border: 2px solid black;
+        text-align: center;
+        padding: 5px;
+        word-wrap:break-word;
+}
+.Noborder{
+    border: none;
+}
+h2{
+    text-align: center;
+}
+.center {
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: none;
+}
+table{
+    
+    width: 80%;
+    height: 10%;
+}
+/* This is for periodic table */
+.alkali{
+    background-color: red;
+    transform: scale();
+}
+.alkali:hover{
+    transform: scale(2);
+}
+.alkaline{
+    background-color: #FF5F1F;
+    transform: scale();
+}
+.alkaline:hover{
+    transform: scale(2);
+}
+.transition{
+    background-color: #FFFF00;
+    transform: scale();
+}
+.transition:hover{
+    transform: scale(2);
+}
+.basic{
+    background-color: #b7f433;
+    transform: scale();
+}
+.basic:hover{
+    transform: scale(2);
+}
+.metaloid{
+    background-color: #39FF14;
+    transform: scale();
+}
+.metaloid:hover{
+    transform: scale(2);
+}
+.nonmetal{
+    background-color: #00FFFF;
+    transform: scale();
+}
+.nonmetal:hover{
+    transform: scale(2);
+}
+.halogen{
+    background-color: #1589FF;
+    transform: scale();
+    
+}
+.halogen:hover{
+    transform: scale(2);
+}
+.nobal{
+    background-color: #9D00FF;
+    transform: scale();
+    
+}
+.nobal:hover{
+    transform: scale(2);
+}
+.lanthanoid{
+    background-color: #ff007f;
+    transform: scale();
+}
+.lanthanoid:hover{
+    transform: scale(2);
+}
+.actinoid{
+    background-color: #FF10F0;
+    transform: scale();
+}
+.actinoid:hover{
+    transform: scale(2);
+}
+#Nocolor{
+    background-color: white;
+}
+/* This is for color table */
+#First{
+    background-color: red;
+}
+#Second{
+    background-color: #FF5F1F;
+}
+#Third{
+    background-color: #FFFF00;
+}
+#Fourth{
+    background-color: #b7f433;
+}
+#Fifth{
+    background-color: #39FF14;
+}
+#Sixth{
+    background-color: #00FFFF;
+}
+#Seventh{
+    background-color: #1589FF;
+}
+#Eight{
+    background-color: #9D00FF;
+}
+#Ninth{
+    background-color: #ff007f;
+}
+#Tenth{
+     background-color: #FF10F0;
+}
+
+/* This is for other tag */
+a{
+text-decoration: none;
+color: black;
+}
+sup{
+    color: black;
+    font-size: 65%;
+}
+small{
+    color: black;
+    font-size: 50%;
+}
+strong{
+    font-size: 98%;
+}
+.Star{
+    font-size: 58%;
+}
+#tableBelow{
+    margin-top: 20px;
+}
