@@ -28,8 +28,10 @@ This is the basic project a developer can create , this project has been created
 ##
 
 
-## Our Youtube Channel Logo
+## Our Youtube Channel Logo and Link
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ1kKStwG_MTQFDwGctvb0H3_FZfXUXoTKbiWudCsMjyo8yVYhTlmAJiDFPKPiUFJMoVmRzurfHZMKY_fHS0GOyKbDnfM4Z0k5phNnl5e1mve14pyAP56mhJsMdofD2e6Z7bswUir3DcU2tzys-eBn4ZRfGiJkrO-yN9CKxAINl-sHFfwf6m_uvhaU/s320/new.jpg)
+
+https://www.youtube.com/@beginner2coder
 ##
 
 
