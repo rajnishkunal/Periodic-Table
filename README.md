@@ -38,5 +38,5 @@ https://www.youtube.com/@beginner2coder
 
 ## Thanks for visiting our repo Hope you liked it.
 
-## Click below to visit our project.
+## Click below to visit our project.(Open this link on PC for better appearance) 
 https://rajnishkunal.github.io/Periodic-Table/Periodic.html
