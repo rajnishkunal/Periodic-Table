@@ -23,8 +23,11 @@ This is the basic project a developer can create , this project has been created
 
 
 ## Our Youtube Channel Logo
-![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfB_FKvVtVWEGbDT5f10y2wXoEdxMDlPPikz3vSBoSDzBh9ipaQoZMfJSq-pSJKEhyPyAoz0xiYVVQrISHQwcCipHptQtX7WDaNcwILL31ePFbL5qCqyXWY-o4TUWzDjk-7-lR0_DcegdRLjWGb6-IfBnvaVFhv7BH1H1mUBoOqtGFDVLWgzYZSuiD/s1600/Logo%202.2.png)
+![Logo(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ1kKStwG_MTQFDwGctvb0H3_FZfXUXoTKbiWudCsMjyo8yVYhTlmAJiDFPKPiUFJMoVmRzurfHZMKY_fHS0GOyKbDnfM4Z0k5phNnl5e1mve14pyAP56mhJsMdofD2e6Z7bswUir3DcU2tzys-eBn4ZRfGiJkrO-yN9CKxAINl-sHFfwf6m_uvhaU/s320/new.jpg)
 
 
 
 ## Thanks for visiting our repo Hope you liked it.
+
+## Click below to visit this project.
+https://rajnishkunal.github.io/Periodic-Table/Periodic.html
